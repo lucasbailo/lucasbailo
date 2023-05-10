@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently unemployed;
+- 🔭 I’m currently a math, physics and techonology teacher;
 - 🌱 I’m currently learning JS, HTML and CSS;
 - 🤔 I’m looking for help with JS;
 - ⚡ Fun fact: I took a gap time just to learn how to code and change my profession (I have a degree in production engineering).
