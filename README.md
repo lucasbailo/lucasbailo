@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a math, physics and techonology teacher;
-- 🌱 I’m currently learning JS, HTML and CSS;
-- 🤔 I’m looking for help with JS;
+- 🌱 I’m currently learning (J̵̶̵S̵̶̵,̵̶̵ ̵̶̵H̵̶̵T̵̶̵M̵̶̵L̵̶̵ ̵̶̵a̵̶̵n̵̶̵d̵̶̵ ̵̶̵C̵̶̵S̵̶̵S̵̶̵  2023), REACT 2024;
+- 🤔 I’m looking for help with React and Next;
 - ⚡ Fun fact: I took a gap time just to learn how to code and change my profession (I have a degree in production engineering).
 
 <div align="center">
