@@ -32,10 +32,7 @@
   <a target="_blank" rel="noopener" href = "mailto:lucasebailo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/lcsbailo"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a target="_blank" rel="noopener" style="background-color:white" href="https://www.frontendmentor.io/profile/lucasbailo"><img src="https://img.shields.io/badge/FrontEnd-Mentor-white" target="_blank"></a>
-  
- 
-  ![Snake animation](https://github.com/lucasbailo/lucasbailo/blob/output/github-contribution-grid-snake.svg)
-  
+   
 </div>
 
 ![snake gif](https://github.com/lucasbailo/lucasbailo/blob/output/github-contribution-grid-snake.svg)
