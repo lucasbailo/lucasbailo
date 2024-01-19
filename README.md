@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a math, physics and techonology teacher;
-- 🌱 I’m currently learning (J̵̶̵S̵̶̵,̵̶̵ ̵̶̵H̵̶̵T̵̶̵M̵̶̵L̵̶̵ ̵̶̵a̵̶̵n̵̶̵d̵̶̵ ̵̶̵C̵̶̵S̵̶̵S̵̶̵  2023), REACT 2024;
+- 🌱 I’m currently learning React and practicing CRUD creation with every language as I can.
 - 🤔 I’m looking for help with React and Next;
-- ⚡ Fun fact: I took a gap time just to learn how to code and change my profession (I have a degree in production engineering).
+- ⚡ Fun fact: I like eating raw carrots.
 
 <div align="center">
   <a href="https://github.com/lucasbailo">
