@@ -34,6 +34,5 @@
   <a target="_blank" rel="noopener" style="background-color:white" href="https://www.frontendmentor.io/profile/lucasbailo"><img src="https://img.shields.io/badge/FrontEnd-Mentor-white" target="_blank"></a>
    
 </div>
+<img src="https://github.com/lucasbailo/lucasbailo/blob/output/github-contribution-grid-snake.gif">
 
-![snake gif](https://github.com/lucasbailo/lucasbailo/blob/output/github-contribution-grid-snake.gif)
-https://github.com/lucasbailo/lucasbailo/blob/output/github-contribution-grid-snake.gif
