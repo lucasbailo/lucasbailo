@@ -35,5 +35,5 @@
    
 </div>
 
-<!--<img src="https://github.com/lucasbailo/lucasbailo/blob/output/github-contribution-grid-snake.gif">-->
+<img src="https://github.com/lucasbailo/lucasbailo/blob/output/github-contribution-grid-snake.gif">
 
