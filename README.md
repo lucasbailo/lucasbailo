@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a math, physics and techonology teacher;
-- 🌱 I’m currently learning React and practicing CRUD creation with every language as I can.
-- 🤔 I’m looking for help with React and Next;
-- ⚡ Fun fact: I like eating raw carrots.
+- 🔭 I’m just a student now;
+- 🌱 I’m currently learning TypeScript.
+- 🤔 I’m looking for help with TypeScript. It's confunsing me a bit;
+- ⚡ Fun fact: I still (2024) like eating raw carrots (1 carrot / day).
 
 <div align="center">
   <a href="https://github.com/lucasbailo">
@@ -17,8 +17,8 @@
   <img align="center" alt="Lcs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lcs-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Lcs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!--
   <img align="center" alt="Lcs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+  <!--
   <img align="center" alt="Lcs-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
   
