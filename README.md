@@ -5,11 +5,17 @@
 - 🤔 I’m looking for help with TypeScript. It's confunsing me a bit;
 - ⚡ Fun fact: I still (2024) like eating raw carrots (1 carrot / day).
 
-<div align="center">
-  <a href="https://github.com/lucasbailo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbailo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbailo&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucasbailo&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasbailo&show_icons=true" />
+</picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lcs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lcs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
