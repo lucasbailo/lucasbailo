@@ -3,7 +3,7 @@
 - 🔭 I’m just a student now;
 - 🌱 I’m currently learning TypeScript.
 - 🤔 I’m looking for help with TypeScript. It's confunsing me a bit;
-- ⚡ Fun fact: I still (2024) like eating raw carrots (1 carrot / day).
+  <!-- - ⚡ Fun fact: I still (2024) like eating raw carrots (1 carrot / day).  -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbailo" />
