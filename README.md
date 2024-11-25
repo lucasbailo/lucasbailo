@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m just a student now;
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning TypeScript and C#.
 - 🤔 I’m looking for help with TypeScript. It's confunsing me a bit;
   <!-- - ⚡ Fun fact: I still (2024) like eating raw carrots (1 carrot / day).  -->
 
