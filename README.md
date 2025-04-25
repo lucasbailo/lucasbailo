@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m just a student now;
+- 🔭 Currently, I am a junior dev;
 - 🌱 I’m currently learning TypeScript and C#.
 - 🤔 I’m looking for help with TypeScript. It's confunsing me a bit;
   <!-- - ⚡ Fun fact: I still (2024) like eating raw carrots (1 carrot / day).  -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbailo" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbailo&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbailo&layout=compact&langs_count=8&card_width=320" />
