@@ -36,9 +36,7 @@
   ##
   
 <div> 
-  <!--
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  -->
+  <a href="https://www.youtube.com/watch?v=cr9WDnQ9LR4&list=PLwub-8eT9LTosRaBSBfwHeLalHYkNlB9r" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="noopener"></a>
   <a target="_blank" rel="noopener" href="https://instagram.com/lucassbailo"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a target="_blank" rel="noopener" href = "mailto:lucasebailo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/lcsbailo"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
