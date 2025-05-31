@@ -2,7 +2,8 @@
 
 - 🔭 Currently, I am a junior dev;
 - 🌱 I’m currently learning TypeScript and C#.
-- 🤔 I’m looking for help with TypeScript. It's confusing me a bit.
+- 🤔 I’m looking for help with TypeScript. It's confusing me a bit;
+- Seeking to be a full stack. 
   <!-- - ⚡ Fun fact: I still (2024) like eating raw carrots (1 carrot / day).  -->
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
