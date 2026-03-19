@@ -19,6 +19,7 @@
   <div>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=lucasbailo&theme=transparent&card_width=466" alt="GitHub Streak" />
+      <img src="https://strava-cards-eight.vercel.app/api/activity/run/51004061" alt="Strava Stats" />
     </a>
   </div>
 </div>
