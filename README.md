@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently, I am a junior dev;
-- 🌱 I’m currently learning TypeScript and C#.
-- Seeking to be a full stack. 
+- Full Stack Dev
   <!-- - ⚡ Fun fact: I still (2024) like eating raw carrots (1 carrot / day).  -->
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
