@@ -7,10 +7,10 @@
   <div style="display: flex; gap: 20px;">
     <div>
       <a href="https://github.com/lucasbailo">
-  <img src="https://github-readme-stats-two-omega-26.vercel.app/api?username=lucasbailo&show_icons=true&theme=transparent&count_private=true" />
+  <img src="https://github-readme-stats-ten-pied-29.vercel.app/api?username=lucasbailo&show_icons=true&theme=transparent&count_private=true" />
 </a>
 <a href="https://github.com/lucasbailo">
-  <img src="https://github-readme-stats-two-omega-26.vercel.app/api/top-langs?username=lucasbailo&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img src="https://github-readme-stats-ten-pied-29.vercel.app/api/top-langs?username=lucasbailo&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
     </div>
   </div>
