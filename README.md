@@ -6,14 +6,15 @@
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <div style="display: flex; gap: 20px;">
     <div>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-two-omega-26.vercel.app/api?username=lucasbailo&show_icons=true&theme=transparent" />
-      </a>
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img src="https://github-readme-stats-two-omega-26.vercel.app/api/top-langs?username=lucasbailo&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-      </a>
+      <a href="https://github.com/lucasbailo">
+  <img src="https://github-readme-stats-two-omega-26.vercel.app/api?username=lucasbailo&show_icons=true&theme=transparent&count_private=true" />
+</a>
+<a href="https://github.com/lucasbailo">
+  <img src="https://github-readme-stats-two-omega-26.vercel.app/api/top-langs?username=lucasbailo&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
     </div>
   </div>
+</div>
   <div>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=lucasbailo&theme=transparent&card_width=466" alt="GitHub Streak" />
