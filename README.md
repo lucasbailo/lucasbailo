@@ -1,22 +1,24 @@
 ### Hi there 👋
 
 - Full Stack Developer turning ideas into code. From React frontends to .NET APIs, I enjoy solving real problems and shipping products that matter. Runner on the side 🏃
+  
+  → [Visit my website](https://www.lucasbailo.com)
   <!-- - ⚡ Fun fact: I still (2024) like eating raw carrots (1 carrot / day).  -->
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <div style="display: flex; gap: 20px;">
     <div>
-      <a href="https://github.com/lucasbailo">
+      <a href="https://www.lucasbailo.com/">
   <img src="https://github-readme-stats-ten-pied-29.vercel.app/api?username=lucasbailo&show_icons=true&theme=transparent&count_private=true" />
 </a>
-<a href="https://github.com/lucasbailo">
+<a href="https://www.lucasbailo.com/">
   <img src="https://github-readme-stats-ten-pied-29.vercel.app/api/top-langs?username=lucasbailo&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
     </div>
   </div>
 </div>
   <div>
-    <a href="https://git.io/streak-stats">
+    <a href="https://www.lucasbailo.com/">
       <img src="https://streak-stats.demolab.com?user=lucasbailo&theme=transparent&card_width=466" alt="GitHub Streak" />
       <img src="https://strava-cards-eight.vercel.app/api/activity/run/51004061" alt="Strava Stats" />
     </a>
